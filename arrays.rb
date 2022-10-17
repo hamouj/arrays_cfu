@@ -17,3 +17,7 @@ puts true_statements.push [false, false]
 
 # Unshift inserts an element(s) into the beginning of the array.
 puts favorite_starbucks_items.unshift ["water"]
+
+# -------------------Index Positions----------------------
+# Instead of starting with 1, we start at 0 when counting positions in an array.
+# For example, in the variable "birth_months", the 2 is in the index position 0 and the 6 is in the index position 3.
