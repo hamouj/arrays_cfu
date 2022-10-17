@@ -21,3 +21,8 @@ puts favorite_starbucks_items.unshift ["water"]
 # -------------------Index Positions----------------------
 # Instead of starting with 1, we start at 0 when counting positions in an array.
 # For example, in the variable "birth_months", the 2 is in the index position 0 and the 6 is in the index position 3.
+
+# -------------------Reverse Method--------------------
+# The reverse method reverses the order of the elements within an array.
+puts birth_months.reverse
+# By calling the reverse method on the birth_months array, the output is a reversal of the birth months [6,5,4]
